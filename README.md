@@ -24,12 +24,12 @@ If you skip manual cell selection, analysis is performed on the whole image, and
 
 - run **cell_count.py**, load "clear" images from the previous script, each  image will be visualized in the console, and user input will be required to manually count the cells.
 
-
-<img src="https://github.com/EmaHuscavova/mitochondria/assets/125351151/de6df370-23d1-489e-80ab-6c59dfa814a0" width=50% height=50%>
+![count_cells](imgs/count_cells.png)
+<!-- <img src="https://github.com/EmaHuscavova/mitochondria/assets/125351151/de6df370-23d1-489e-80ab-6c59dfa814a0" width=50% height=50%> -->
 
 - run **new_05_skelet_analysis.py** - performs analysis of skeleton using library [skan](https://skeleton-analysis.org/stable/), returns statistical overview of the skeleton, calculates the overall volume of the network [&micro;m<sup>3</sup>], and volumes of the individual components [&micro;m<sup>3</sup>].
 
-![cell_mito_skelet+skelet](https://github.com/EmaHuscavova/mitochondria/assets/125351151/e05fc585-e529-4b41-bc28-069bcafc3082)
+![cell_mito_skelet+skelet](imgs/skeleton.png)
 
 
 
