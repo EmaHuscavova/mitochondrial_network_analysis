@@ -1,0 +1,6 @@
+spyder
+numpy
+scikit-image
+matplotlib
+imagecodecs
+czifile
